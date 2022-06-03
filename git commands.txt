@@ -1,0 +1,4 @@
+git clone 
+git add -a 
+git status
+git commit -m "message" 
